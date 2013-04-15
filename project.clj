@@ -1,10 +1,10 @@
-(defproject prismatic/dommy "0.1.1-SNAPSHOT"
+(defproject jakemcc/dommy "0.1.1"
   :clojurescript? true
   :description "No nonsense Clojurescript dom templating and (soon) manipulation"
-  :url "https://github.com/prismatic/dommy"
+  :url "https://github.com/jakemcc/dommy"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :scm {:url "git@github.com:prismatic/dommy.git"}
+  :scm {:url "git@github.com:jakemcc/dommy.git"}
   :pom-addition [:developers [:developer
                               [:name "Prismatic"]
                               [:url "http://getprismatic.com"]
